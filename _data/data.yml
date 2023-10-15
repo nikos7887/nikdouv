@@ -92,7 +92,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: System Administrator
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
@@ -107,7 +107,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
+      - role: System Administrator
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -118,7 +118,7 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: System Administrator
         time: 2012 - 2014
         company: Amazon, London
         details: |
@@ -255,7 +255,7 @@ skills:
       - name: Virtualization
         level: 95%
 
-      - name: Technical Saupport
+      - name: Technical Support
         level: 94%
 
       - name: Cloud Computing
