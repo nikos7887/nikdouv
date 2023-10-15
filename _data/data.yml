@@ -243,23 +243,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Networking
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Troubleshooting
         level: 98%
 
-      - name: Angular
+      - name: System Administration
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Virtualization
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Technical Saupport
+        level: 94%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Cloud Computing
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Nikolaos D</a>
