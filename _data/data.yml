@@ -15,10 +15,10 @@ sidebar:
     # Sidebar links
     email: hello@webjeda.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Europe/Athens Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: blogs.igalia.com/nzimmermann/ #do not add http://
+    linkedin: ndou
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
