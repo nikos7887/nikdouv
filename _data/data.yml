@@ -132,22 +132,18 @@ certifications:
             these environments, and the RHCE certification expects candidates to know
             how to automate the deployment, management and support of multisystem environments.
             
-        - name: Git learning
+        - name: Cisco Certified Network Associate (CCNA)
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: 2020
+          organization: Cisco
+          credentialid: 200-301
+          credentialurl: https://www.cisco.com/site/us/en/index.html
+          credentialname: Cisco
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            CCNA certification proves you have what it takes to navigate the ever-changing landscape of IT.
+            CCNA exam covers networking fundamentals, IP services, security fundamentals, automation and
+            programmability. Designed for agility and versatility, CCNA validates that you have the skills 
+            required to manage and optimize today's most advanced networks.
 
 projects:
     title: Projects
@@ -172,16 +168,6 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
