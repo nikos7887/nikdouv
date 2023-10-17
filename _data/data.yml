@@ -52,12 +52,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A Senior System Administrator with 10+ years of professional experience,
+      specializing in Azure, Agile methodology, technical project management,
+      and IT services. A strong background in building and leading high-performance
+      technical teams to execute IT initiatives and technology transformations
+      for enterprise clients.
 education:
     title: Education
     info:
@@ -101,6 +100,7 @@ experiences:
         company: Wolters Kluwer N.V., Netherlands
         details: |
           Executed strategic IT system procurement and supplier evaluation to maintain the continuity of operations.
+          
           Configured, installed, and maintained hardware and software equipment, including routers and switches.
             
             
@@ -109,6 +109,7 @@ experiences:
         company: Micro Focus International Plc, United Kingdom
         details: |
           Supported and built the front-end and back-end server systems using Windows Server & VMWare Client.
+          
           Reduced the company’s operating budget by 10% through strategic and innovative contract renegotiations.
             
             
