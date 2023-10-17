@@ -19,7 +19,6 @@ sidebar:
     citizenship:
     website: blogs.igalia.com/nzimmermann/ #do not add http://
     linkedin: ndou
-    xing: ndou
     github: nikos7887
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -46,7 +45,7 @@ sidebar:
         - item: Running
           link:
 
-        - item: Snowboarding
+        - item: Swimming
           link:
 
 
@@ -64,7 +63,7 @@ education:
     info:
       - degree: MSc in Pervasive and Mobile Computing Systems
         university: Hellenic Open University
-        time: 2022 - 2024
+        time: 2022 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,39 +89,26 @@ experiences:
     info:
       - role: System Administrator
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Hexagon AB, Sweden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Developed software to complete daily tasks, reducing the time for completion.
+          Created an effective and productive online documentation platform to help employees resolve daily issues.
             
             
       - role: System Administrator
         time: 2014 - 2015
-        company: Google, London
+        company: Wolters Kluwer N.V., Netherlands
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Executed strategic IT system procurement and supplier evaluation to maintain the continuity of operations.
+          Configured, installed, and maintained hardware and software equipment, including routers and switches.
             
             
       - role: System Administrator
         time: 2012 - 2014
-        company: Amazon, London
+        company: Micro Focus International Plc, United Kingdom
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Supported and built the front-end and back-end server systems using Windows Server & VMWare Client.
+          Reduced the company’s operating budget by 10% through strategic and innovative contract renegotiations.
             
             
 
@@ -177,22 +163,6 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
