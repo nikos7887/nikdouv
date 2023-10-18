@@ -146,15 +146,14 @@ certifications:
             required to manage and optimize today's most advanced networks.
 
 projects:
-    title: Projects
+    title: Management
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Demonstrated ability to manage and/or work with external partners such as managed services providers,
+database specialists and cyber-security professionals
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "test professionals."
 
 skills:
     title: Skills &amp; Proficiency
