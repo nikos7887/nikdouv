@@ -15,4 +15,4 @@ $sidebar-order: 2;
 {% endif %}
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
-@import "default"; // main partials
+@import "orange"; // main partials
